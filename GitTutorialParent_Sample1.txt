@@ -1,5 +1,11 @@
 1 - GitTutorialParent_Sample1.txt File - Uploaded to GitHub
+<<<<<<< HEAD
 
 REBASE EXAMPLE
 ==============
 First change made in Main repository
+=======
+REBASE EXAMPLE
+==============
+Second change made in Remote_Branch1 repository (Main changes are not updated here)
+>>>>>>> Remote_Branch1
