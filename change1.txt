@@ -1,1 +1,2 @@
 change_1
+No change when new file added -> Merge & Rebase are same
